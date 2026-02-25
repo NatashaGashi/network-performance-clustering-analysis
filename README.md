@@ -5,6 +5,11 @@ This repository contains a pipeline of Jupyter notebooks that:
 2) Performs clustering analysis
 3) Uses a Genetic Algorithm (GA) to select feature subsets that improve clustering performance.
 
+## Clustering Algorithms:
+- K-Means
+- DBSCAN
+- Agglomerative clustering
+
 ## Data source
 - Dataset page: https://docenti.ing.unipi.it/g.nardini/ai6g_qoe_dataset.html  
 - Reference paper (CEUR-WS): https://ceur-ws.org/Vol-3189/paper_07.pdf
