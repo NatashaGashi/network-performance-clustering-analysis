@@ -18,10 +18,7 @@ This repository contains a pipeline of Jupyter notebooks that:
 │  ├─ task-01-data-cleaning.ipynb
 │  ├─ task-02-clustering.ipynb
 │  └─ task-05-genetic-algorithm.ipynb
-├─ data/
-├─ outputs/ 
 ├─ requirements.txt
-└─ .gitignore
 ```
 
 ## How to run
