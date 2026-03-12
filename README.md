@@ -22,7 +22,7 @@ This repository contains a pipeline of Jupyter notebooks that:
 ├─ notebooks/
 │  ├─ task-01-data-cleaning.ipynb
 │  ├─ task-02-clustering.ipynb
-│  └─ task-05-genetic-algorithm.ipynb
+│  └─ task-03-genetic-algorithm.ipynb
 ├─ requirements.txt
 ```
 
